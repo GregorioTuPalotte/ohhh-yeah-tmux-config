@@ -1,2 +1,3 @@
 # ohhh-yeah-tmux-config
 in development for my debian
+and i might have stole this one, but im totally modifing it so...
